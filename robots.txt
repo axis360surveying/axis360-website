@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.axis360surveying.co.uk/sitemap.xml
